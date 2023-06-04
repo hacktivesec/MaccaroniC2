@@ -1,6 +1,6 @@
 # MaccaroniC2 Custom Server
 # Compile with Nuitka: python -m nuitka --standalone --onefile weaponized_server.py
-# Windows Defender Bypassed last check - 19.00, 24 May 2023 - All settings enabled
+# Windows Defender Bypassed last check - 24 May 2023 - All settings enabled
 
 import asyncio
 import asyncssh
